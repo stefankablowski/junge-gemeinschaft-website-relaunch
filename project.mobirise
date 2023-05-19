@@ -65,7 +65,7 @@
       "settings": {
         "main": true,
         "title": "Gemeinschaft Wethen",
-        "meta_descr": "",
+        "meta_descr": "In dem kleinen nordhessischen Dorf Wethen gibt es eine Gemeinschaft. Ca. 50 Menschen leben hier zusammen auf dem Land. Gemeinsame Werte sind Frieden, Gerechtigkeit und Bewahrung der Schöpfung.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1133,7 +1133,8 @@
       "settings": {
         "title": "Mithelftage",
         "order": "2",
-        "meta_image": "@PROJECT_PATH@/assets/images/social-media-16.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/social-media-16.png",
+        "meta_descr": "Vom 4. bis 6. August 2023 finden die Mithelftage in Wethen statt! Zeit um den Ort und die Menschen hier persönlich kennen zu lernen. Gleichzeitig freuen wir uns, wenn ihr mit anpackt und wir gemeinsam einige Werkelprojekte vorwärts bringen können. Natürlich mit Zeit für jede Menge Spaß zwischendurch!"
       },
       "components": [
         {
