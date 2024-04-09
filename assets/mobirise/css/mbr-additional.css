@@ -2163,6 +2163,37 @@ a {
   height: 2px;
   margin: 0 auto;
 }
+.cid-tGhZILf46V {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tGhZILf46V .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tGhZILf46V .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (min-width: 992px) {
+  .cid-tGhZILf46V .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-tGhZILf46V .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-tGhZILf46V .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
 .cid-tBfMHvAhYL {
   padding-top: 30px;
   padding-bottom: 30px;
